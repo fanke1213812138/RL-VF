@@ -1,4 +1,4 @@
-# RL+VF
+# RL under VF
 
 Code of the paper "Integrating Reinforcement Learning and Virtual Fixtures for Safer
 Automatic Robotic Surgery"
