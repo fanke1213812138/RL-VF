@@ -1,6 +1,6 @@
 # RL+VF
 
-This repository contains the code and instructions needed to reproduce the results presented in the paper "Integrating Reinforcement Learning and Virtual Fixtures for Safer
+Code of the paper "Integrating Reinforcement Learning and Virtual Fixtures for Safer
 Automatic Robotic Surgery"
 
 ## Table of Contents
