@@ -1,6 +1,7 @@
-# My Paper Code Repository
+# RL+VF
 
-Welcome to the repository for the code accompanying my research paper. This repository contains all the code, data, and instructions needed to reproduce the results presented in the paper.
+This repository contains the code and instructions needed to reproduce the results presented in the paper "Integrating Reinforcement Learning and Virtual Fixtures for Safer
+Automatic Robotic Surgery"
 
 ## Table of Contents
 - [Introduction](#introduction)
